@@ -6,7 +6,7 @@
 
 **The AI-powered creative director for content strategy, multi-track scripting, and campaign execution.**
 
-[![Releases](https://img.shields.io/github/v/release/Mafabi-Innovations/SanifuStudio?style=flat-square&color=10b981)](https://github.com/Mafabi-Innovations/SanifuStudio/releases)
+[![Releases](https://img.shields.io/github/v/release/Mafabi-Innovations/SanifuStudio?include_prereleases&style=flat-square&color=10b981)](https://github.com/Mafabi-Innovations/SanifuStudio/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078d7?style=flat-square)](https://github.com/Mafabi-Innovations/SanifuStudio/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-22272e?style=flat-square)](#)
 
