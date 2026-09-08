@@ -7,5 +7,7 @@
 			"path": "../mafabi_sanifustudio"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mafabi_sanifustudio"
+	}
 }
