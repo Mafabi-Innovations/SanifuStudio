@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="assets/SanifuStudio_Hero_16_9_1_chewy_mint.jpeg" alt="SanifuStudio Hero Banner" width="100%" />
+<img src="assets/SanifuStudio-0.3.0-chewymint-16_9.jpg" alt="SanifuStudio Hero Banner" width="100%" />
 
 </div>
 
